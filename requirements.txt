@@ -1,0 +1,10 @@
+streamlit
+pdfplumber
+rapidfuzz
+pandas
+plotly
+openpyxl
+pdf2image
+pytesseract
+Pillow
+reportlab
